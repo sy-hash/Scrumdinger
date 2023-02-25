@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B04042729A9D9F90075203E /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B04042629A9D9F90075203E /* DetailView.swift */; };
 		0BB8942C298D68440026B1DE /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB8942B298D68440026B1DE /* ScrumsView.swift */; };
 		0BFBDD312984EF8100758AF3 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BFBDD302984EF8100758AF3 /* ScrumdingerApp.swift */; };
 		0BFBDD332984EF8100758AF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BFBDD322984EF8100758AF3 /* ContentView.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B04042629A9D9F90075203E /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		0BB8942B298D68440026B1DE /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		0BFBDD2D2984EF8100758AF3 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BFBDD302984EF8100758AF3 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				0BFBDD472985110200758AF3 /* CardView.swift */,
 				0BFBDD5C2985149A00758AF3 /* TrailingIconLabelStyle.swift */,
 				0BB8942B298D68440026B1DE /* ScrumsView.swift */,
+				0B04042629A9D9F90075203E /* DetailView.swift */,
 				0BFBDD492985149100758AF3 /* Scrumdinger */,
 				0BFBDD342984EF8200758AF3 /* Assets.xcassets */,
 				0BFBDD362984EF8200758AF3 /* Preview Content */,
@@ -226,6 +229,7 @@
 				0BFBDD312984EF8100758AF3 /* ScrumdingerApp.swift in Sources */,
 				0BFBDD582985149100758AF3 /* Theme.swift in Sources */,
 				0BFBDD482985110200758AF3 /* CardView.swift in Sources */,
+				0B04042729A9D9F90075203E /* DetailView.swift in Sources */,
 				0BFBDD41298505DC00758AF3 /* MeetingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
